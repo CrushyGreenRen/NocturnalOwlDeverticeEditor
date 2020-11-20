@@ -1,5 +1,5 @@
 # Nocturnal Owl De-vertice Editor
-#### This program has been forked with permission by the original author and is now open-source and under GPLv3. [proof](https://cdn.discordapp.com/attachments/586924273852219392/778989603590897674/unknown.png/)
+## This program has been forked with permission by the original author and is now open-source and under GPLv3. [proof](https://cdn.discordapp.com/attachments/586924273852219392/778989603590897674/unknown.png/)
 
 Nocturnal Owl De-vertice Editor is a program that provides a custom workstation for simplifying the process of creating your own paths for Luxor, and more!
 
@@ -38,6 +38,6 @@ in the program.
 
 -----
 
-##### [color=2182e5]Credits[/color]
+## Credits
 * Konisbored / OwlsCantRead - original programming
 * CrushyGreenRen - fork to v2.1b
