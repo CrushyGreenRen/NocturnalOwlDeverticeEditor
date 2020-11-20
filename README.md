@@ -5,7 +5,7 @@ Nocturnal Owl De-vertice Editor is a program that provides a custom workstation 
 
 Download: https://modworkshop.net/mod/29923
 
-##### Why should you use N.O.D.E?
+## Why should you use N.O.D.E?
 * simplifies the path making process by automatically logging vertices with asimple mouse click instead of the old copy and paste method.
 * reduce human errors in path making by having N.O.D.E generate the path.obj,map.ui and stage_select.uis file output for you.
 * curved paths and corner vertices are MUCH easier & less time consuming to map.
