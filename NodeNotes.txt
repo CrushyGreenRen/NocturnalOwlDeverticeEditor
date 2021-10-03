@@ -1,0 +1,11 @@
+feel free to improve my code n shit here
+
+maybe stuff like a "make vertices from #160 to #170 hidden" fn or toggle show all vertices, i havent got around to making that and i dont have all the time in the world cus yk
+
+and i also wanted to change the show all vertice colors for the hidden/warp nodes, pretty confusing as of now so treat 2.2s as a nightly release
+
+feel free to improve on the sparkle exporter as well and btw these two buttons on the workstation were supposed to be tabs for edit mode to say, make vertice # hidden or warp, basically "Vertice Augmentation", "Path Augmentation" etc basically making it a budget ripoff of BeardLib Editor loma
+
+i wanna help somehow even if i cant be active much here
+
+- Shambles
